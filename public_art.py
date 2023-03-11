@@ -7,7 +7,7 @@ import openai
 import json
 import pandas as pd
 
-openai.api_key = 'OPEN_API_KEY'
+openai.api_key = 'OPENAI_API_KEY'
 
 st.title('Syracuse Public Art Challenge')
 
